@@ -2,9 +2,7 @@
 
 Movie Explorer is a responsive and modern movie catalog built using the TMDB API. You can search for movies, view popular films, and explore detailed information such as release date, rating, genres, and overview.
 
-🔗 **Live Preview**: [Click here to view the project](https://David-HRBarbosa.github.io/https://david-hrbarbosa.github.io/Movie-Explorer//)
-
-![Preview Screenshot](assets/preview.png)
+🔗 **Live Preview**: [Click here to view the project](https://david-hrbarbosa.github.io/Movie-Explorer//)
 
 ---
 
