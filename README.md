@@ -44,8 +44,10 @@ Se você é um recrutador ou desenvolvedor interessado em colaboração:
 
 David Henrique Barbosa
 📍 Baseado em Portugal | Natural do Brasil
-📧 david.hrbarbosa159@gmail.com
-🔗 LinkedIn
-🔗 Site do Portfólio
+
+📧  [LinkedIn](https://www.linkedin.com/in/david-henrique-rodrigues/) |  
+🔗  [My Portfolio](https://david-hrbarbosa.github.io/Portfolio/) |  
+🔗  david.hrbarbosa159@gmail.com 
+ 
 
 
