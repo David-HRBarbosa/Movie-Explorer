@@ -38,3 +38,14 @@ git clone https://github.com/your-username/movie-explorer.git
 cd movie-explorer
 
 # Open index.html in your browser
+
+📩 Contato
+Se você é um recrutador ou desenvolvedor interessado em colaboração:
+
+David Henrique Barbosa
+📍 Baseado em Portugal | Natural do Brasil
+📧 david.hrbarbosa159@gmail.com
+🔗 LinkedIn
+🔗 Site do Portfólio
+
+
