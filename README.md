@@ -32,7 +32,7 @@ Movie Explorer is a responsive and modern movie catalog built using the TMDB API
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/movie-explorer.git
+git clone https://github.com/david-hrbarbosa.github.io/movie-explorer.git
 
 # Navigate to the project folder
 cd movie-explorer
